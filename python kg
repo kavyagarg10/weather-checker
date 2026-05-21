@@ -1,0 +1,14 @@
+info = [
+     ("alice","math"),
+     ("bob","science"),
+     ("alice","science"),
+     ("charlie","math"),
+     ("bob","math"),
+     ("alice","english"),
+     ("charlie","english"),
+
+]     
+
+for name,course in info:
+    if(course == "english"):
+        print(name)
