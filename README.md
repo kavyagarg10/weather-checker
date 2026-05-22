@@ -2,7 +2,7 @@
 
 A python CLI weather checker that fetches real time weather data for any city using Openweather API.
 
-# fEATURES
+# FEATURES
 •Real time temprature
 •How temprature actually feels like
 •Humidity
